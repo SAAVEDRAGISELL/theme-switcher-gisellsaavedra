@@ -7,3 +7,14 @@ El cambio de tema afecta todo el diseño de la interfaz y demuestra el uso de **
 ---
 
 ## 🧩 Estructura del proyecto
+
+├── src/
+│   ├── App.jsx
+│   ├── ThemeCard.jsx
+│   ├── main.jsx
+│   ├── index.css
+├── package.json
+├── vite.config.js   ← (si lo tienes)
+├── README.md
+└── …
+
